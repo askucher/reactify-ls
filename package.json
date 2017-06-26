@@ -1,0 +1,24 @@
+{
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/askucher/reactify-ls/issues"
+  },
+  "homepage": "https://github.com/askucher/reactify-ls#readme",
+  "subversion": 126,
+  "main": "reactify.js",
+  "description": "Reactify livescript's pug syntax",
+  "version": "0.1.126",
+  "name": "reactify-ls",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/askucher/reactify-ls.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "uperversion": "0.1"
+}

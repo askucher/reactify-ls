@@ -6,13 +6,13 @@ This library is created for people who understands the efficiency of React and b
 * Pug syntax is awesome but it is very hard to use it with React.
 * Coffee, LiveScript languages are awesome but there is no isomorphic way to use React with it.
 * We just love to build great things as compact as possible.
-* Use functional benefits. Do not use OOP anymore. Think decentralized. This functional. Be smart.
-* Consider React code as simple back-end.
-* We have a lot of thinking how to extend it (SASS, modules)
-* Forget about `{` and `}` forever. Use benefits of indented language.
+* Use functional benefits. Do not use OOP anymore. Think decentralized. Think functional. Be smart.
+* Consider React code as a simple back-end.
+* We have a lot of thoughts on how to extend it (SASS, modules)
+* Forget about `{` and `}` forever. Use benefits of indented languages.
 * We will support `coffee`.
 
-You ask `So why it is better then Standartlone React?`
+You may ask `So why is it better then Standalone React?`
 
 ```
 Did you know about AngularJS? It uses another approach. 
@@ -21,10 +21,10 @@ Unfortunetely it is not possible with React.
 
 `reactify-ls` makes it possible. 
 
-It gets benefits of both world and combine them into one powerful machine.
-Most of companies of SF use React right now. 
-And they will be not be able to ingore `reactify-ls` when we get the sufficient level of quality state.
-It is just future. React will have to evolve into something next. This is evolution of React. 
+It gets benefits of both worlds and combines them into one powerful machine.
+Most of companies in SF use React right now. 
+And they will be not be able to ingore `reactify-ls` when we get the sufficient level of quality.
+It is the future. React will have to evolve into something next. This is an evolution of React. 
 ```
 
 
@@ -89,7 +89,7 @@ Notice! You will be able to create a `react function` and use it's `element`
 npm i reactify-ls lscx --save
 ```
 
-#### Need to have for demo
+#### Requirements for the demo
 ```
 npm i react react-dom mobx mobx-react --save
 ```
@@ -120,6 +120,7 @@ lscx -skhbc your_example
 $ 50 000
 
 ### Whitepaper 
+
 Each year you meet new IT trends. Previously it was Jquery, then AngularJS and now it is React. What the next?
 
 We are experienced developers who watch world trends of IT technologies and try to forecast the next big popular thing. 
@@ -234,7 +235,7 @@ We will generate `RELS1`, `RELS2`, `RELS3` tokens and bind them with `your addre
 
 #### FAQ
 
-1. Why is indented language better?
+1. Why are indented languages better?
 
 Because you need to put indents anyway. Almost all teams setup lint on the projects. So better just use code `indention` as part of a language. 
 You will save 30% of space because the indented code is compact. 
